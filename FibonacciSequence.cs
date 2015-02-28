@@ -5,7 +5,7 @@
    Project Type: Console application
    Language: C#
    Description: A c# console application that uses the fibonacci sequence to display numeric terms which are less than 4000000.
-   				A grand total of all even numbers within the sequence is calcuted and displayed.
+   		A grand total of all even numbers within the sequence is calcuted and displayed.
 */
 using System;
 using System.Collections.Generic;
